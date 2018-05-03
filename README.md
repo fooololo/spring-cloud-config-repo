@@ -1,2 +1,2 @@
-# spring_cloud_config_repo
+# spring-cloud-config-repo
 Spring Cloud Config专用Repon
